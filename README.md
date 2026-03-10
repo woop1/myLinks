@@ -14,7 +14,7 @@ Abre `index.html` y cambia estos 4 elementos:
 
 | Placeholder                     | Qué escribir        |
 | ------------------------------- | ------------------- |
-| `Tu Nombre`                     | Tu nombre real      |
+| `Angel`                     | Tu nombre real      |
 | `Una línea sobre ti...`         | Tu bio breve        |
 | `https://github.com/tu-usuario` | Tu perfil de GitHub |
 | `tu@email.com`                  | Tu email            |
